@@ -37,5 +37,4 @@ public class StudentController {
         studentService.addNewStudent(student);
     }
 
-
 }
