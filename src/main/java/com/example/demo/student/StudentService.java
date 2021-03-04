@@ -36,7 +36,6 @@ public class StudentService {
         }
 
         studentRespository.save(student);
-
         //System.out.println(student);
 
     }
